@@ -27,7 +27,8 @@ I'm a professional developer focused on interactive web experiences and design. 
 
 
 
-TECHNOLOGIES & HARD SKILLS:
+
+###TECHNOLOGIES & HARD SKILLS:
 
 •Applied everyday:
 #javaScript ECMAS6 #css #html #sass #gsap #git #npm
