@@ -38,3 +38,7 @@ I'm a professional developer focused on interactive web experiences and design. 
 
 •Applied sometimes:
 #node.js #mongodb #firebase
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Candela&layout=compact&theme=dark&hide_border=true)
+
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Candela&show_icons=true&hide_border=true&theme=dark)
