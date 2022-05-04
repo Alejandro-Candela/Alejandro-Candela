@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a professional developer focused on interactive web experiences and design. Formed in web development and audiovisual design (2 degrees), the main part of my role is to create websites where visuals and interactive experience are important.
 
-🌟 The skill that sets me apart: is probably the visual rhythm, the pacing of web experiences.
+🌟 The skill that sets me apart: probably the visual rhythm, the pacing of web experiences.
 
 🍄 Web design enhancement: through 3D organic experiences with Three.js and smooth 2D movements with GSAP.
 
